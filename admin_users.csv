@@ -1,0 +1,16 @@
+username,password,role,category
+superadmin,123,superadmin,ALL
+eoffice_admin,eoff123,admin,eOffice
+irwcms_admin,irw123,admin,IR-WCMS
+irpsm_admin,irp123,admin,IRPSM
+antivirus_admin,anti123,admin,ANTIVIRUS
+hmis_admin,hmis123,admin,HMIS
+hrms_admin,hrms123,admin,HRMS
+hardware_admin,hard123,admin,HARDWARE (COMPUTER- PRINTER-UPS)
+ipas_admin,ipas123,admin,IPAS (AIMS)
+ireps_admin,ireps123,admin,IREPS / UDM
+nicmail_admin,nic123,admin,NIC MAIL
+network_admin,net123,admin,NETWORKING
+orhpravas_admin,orh123,admin,ORH-PRAVAS
+sparrow_admin,spa123,admin,SPARROW
+others_admin,oth123,admin,others
